@@ -8,10 +8,11 @@ if (filter_input(INPUT_SERVER, 'SERVER_NAME', FILTER_SANITIZE_URL) == "localhost
     $password = "";
     $dbname = "radiodaisy";  
 } else {
-    $servername = "localhost";
-    $username = "royscml113_royscml113";
-    $password = "Ad599bOss!";
-    $dbname = "royscml113_radiodaisy";
+        //I'd like to keep this private
+    $servername = "";
+    $username = "";
+    $password = "";
+    $dbname = "";
 }
 
 $data = ""; 
