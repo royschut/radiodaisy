@@ -1,5 +1,5 @@
 # radiodaisy
-Radio Daisy - Web's first AI DJ
+Radio Daisy - Web's first AI DJ.
 Repos of the React and PHP code to radiodaisy.nl.
 
 Daisy retrieves a playlist from a pre- or otherwise randomly selected music style. From this randomly ordered list of songs she will create a program, based on  the cues of each song describing specific moments of the music, such as START, STOP, SKIP_IN, SKIP_OUT and PRESTART_OVERLAP. 
